@@ -24,3 +24,11 @@ a:hover::after {
 bottom: 0;
 opacity: 1;
 }
+
+.center {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          margin-left: 10vw;
+          margin-right: 10vw;
+        } 
